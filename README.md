@@ -1,214 +1,84 @@
 <div align="center">
 
-<img src="./Tehmina.png" width="100%" alt="Tehmina Automation Banner">
+<img src="./Tehmina.png" width="100%" alt="Tehmina Automation">
 
 <br><br>
 
-# 🌷✨ WELCOME TO MY GITHUB ✨🌷
+# 👋 Hey, I'm **Tehmina**
 
-## 👩‍💻 TEHMINA AUTOMATION
+### 🤖 AI Developer · 🐍 Python · ⚙️ Automation
 
-### 🤖 AI • 🐍 PYTHON • ⚙️ AUTOMATION
+**I build smart applications, automate ideas, and turn concepts into reality.** ✨
 
 <br>
 
-**Turning ideas into smart, creative & useful digital solutions.** 💫
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-EC4899?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+</div>
+
+---
+
+## 🌸 About Me
+
+I'm **Tehmina**, a Python & AI enthusiast focused on building things that are:
+
+> **Smart 💡 · Useful ⚡ · Creative 🎨 · Automated ⚙️**
+
+I enjoy experimenting with AI, developing Python applications, and turning everyday ideas into digital solutions.
+
+---
+
+## 🧠 What I Work With
+
+<div align="center">
+
+|       🤖 AI      |   🐍 Python  | ⚙️ Automation |
+| :--------------: | :----------: | :-----------: |
+| Machine Learning | Applications |   Workflows   |
+|   Generative AI  | Data & Logic |  Smart Tools  |
+|       LLMs       |     APIs     |  Productivity |
+
+</div>
+
+---
+
+## ✨ Currently Exploring
+
+```text
+Artificial Intelligence     ████████████████░░░░
+Generative AI               ██████████████░░░░░░
+Python Development          █████████████████░░░
+Automation                  ███████████████░░░░░
+LLMs & RAG                  ████████████░░░░░░░░
+```
+
+---
+
+## 🚀 My Creative Space
+
+💡 **Ideas** → 🐍 **Python** → 🤖 **AI** → ⚙️ **Automation** → ✨ **Reality**
+
+I believe the best projects start with a simple idea.
+
+So I'm here to **learn, build, experiment and create.** 🌱
+
+---
+
+<div align="center">
+
+### 🌷 Thanks for stopping by!
+
+**Explore • Learn • Build • Automate**
+
+<br>
+
+`💜 One idea at a time.`
 
 <br><br>
 
-🌸 ───────────────────────────────────────── 🌸
-
-</div>
-
-## 👋 Hello, I'm Tehmina!
-
-Welcome to my GitHub! 💜
-
-I'm passionate about **Python, Artificial Intelligence, Automation, and creative application development**.
-
-I enjoy taking an idea 💡 and transforming it into something **useful, intelligent, interactive, and real.** 🚀
-
-My goal is to keep learning, experimenting, building, and exploring new possibilities with technology. ✨
-
----
-
-<div align="center">
-
-## 🛠️ WHAT I LOVE TO BUILD
-
-<br>
-
-🤖 **AI-Powered Applications**
-🐍 **Python Projects**
-⚙️ **Automation Tools**
-🧠 **Generative AI Solutions**
-⚡ **Streamlit Applications**
-💬 **LLM-Based Tools**
-📚 **RAG Applications**
-🎨 **Creative Digital Experiences**
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 MY TECH WORLD
-
-<br>
-
-### 🐍 Python
-
-### 🤖 Artificial Intelligence
-
-### 🧠 Machine Learning
-
-### ✨ Generative AI
-
-### 💬 LLMs & NLP
-
-### 📚 RAG
-
-### ⚙️ Automation
-
-### ⚡ Streamlit
-
-### 🔗 APIs
-
-### 🛠️ Git & GitHub
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 CURRENTLY LEARNING & EXPLORING
-
-<br>
-
-🔍 Machine Learning
-🧠 Generative AI
-🤖 Intelligent Automation
-💬 Large Language Models
-📚 Retrieval-Augmented Generation
-⚡ AI Application Development
-✨ Creative Digital Solutions
-
-</div>
-
----
-
-## 💡 My Philosophy
-
-<div align="center">
-
-> 🌟 **Think Different**
-> 💡 **Build Creative**
-> ⚙️ **Automate Smart**
-> 📚 **Keep Learning**
-> 🚀 **Keep Growing**
-
-<br>
-
-### 💭 IDEA → 💻 CODE → 🤖 INTELLIGENCE → ✨ EXPERIENCE
-
-</div>
-
----
-
-<div align="center">
-
-## 🪄 MY BUILDING JOURNEY
-
-<br>
-
-💭 **Have an Idea**
-
-⬇️
-
-📝 **Plan It**
-
-⬇️
-
-🐍 **Code It**
-
-⬇️
-
-🤖 **Make It Intelligent**
-
-⬇️
-
-🧪 **Test & Improve**
-
-⬇️
-
-🚀 **Turn It Into Reality**
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 WHAT YOU'LL FIND HERE
-
-<br>
-
-🐍 Python experiments
-🤖 AI projects
-⚙️ Automation ideas
-🧠 Machine Learning work
-✨ Generative AI experiments
-💻 Interactive applications
-🌱 Learning projects
-
-<br>
-
-**Every project is part of the journey.** 💜
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 BIG IDEAS ARE LOADING...
-
-<br>
-
-✨ New ideas
-🤖 New AI experiments
-⚙️ New automations
-🐍 New Python projects
-💻 New applications
-
-<br>
-
-### 👀 Stay tuned...
-
-</div>
-
----
-
-<div align="center">
-
-🌷 ───────────────────────────────────────── 🌷
-
-# 💜 THANK YOU FOR VISITING! 💜
-
-### 👋 Welcome • Explore • Learn • Create
-
-<br>
-
-**Keep Learning. Keep Building. Keep Automating. 🚀**
-
-<br><br>
-
-`✨ BUILD • AUTOMATE • LEARN • INNOVATE ✨`
-
-<br>
-
-🌷 ───────────────────────────────────────── 🌷
+✨ **More projects & experiments coming soon...** 🚀
 
 </div>
