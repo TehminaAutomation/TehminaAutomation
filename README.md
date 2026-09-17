@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TehminaAutomation/TehminaAutomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub!
 
-Here are some ideas to get you started:
+## 💻 Tehmina Anwar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building AI-powered apps & custom digital solutions 🚀
+
+🐍 Python | ⚡ Streamlit | 🤖 AI | ⚙️ Automation
+
+---
+
+### ✨ What I Create
+
+🤖 AI-Powered Apps  
+🐍 Python Projects  
+⚡ Streamlit Applications  
+⚙️ AI & Python Automation  
+🎂 Birthday & Wishes Apps  
+💌 Custom Digital Solutions  
+
+---
+
+### 💡 Turning Ideas Into Digital Experiences
+
+I create creative, functional and customized digital solutions
+based on your ideas.
+
+---
+
+### 🛠️ My Focus
+
+**Python • AI • Streamlit • Automation • Custom Apps**
+
+---
+
+### 🚀 Let's Build Something Amazing!
+
+💻 Custom Project  
+🤖 AI Application  
+⚙️ Automation  
+🎨 Digital Experience  
+
+</div>
