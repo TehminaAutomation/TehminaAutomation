@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./Tehmina.png" width="100%" alt="Tehmina Automation Banner">
+
+<br><br>
+
 # 🌷✨ WELCOME TO MY GITHUB ✨🌷
 
 ## 👩‍💻 TEHMINA AUTOMATION
@@ -12,112 +16,199 @@
 
 <br><br>
 
-🌸 ─────────────────────────────── 🌸
+🌸 ───────────────────────────────────────── 🌸
 
-### 💜 HELLO, I'M TEHMINA! 👋
+</div>
 
-Welcome to my little corner of GitHub! 🪄
+## 👋 Hello, I'm Tehmina!
 
-I'm passionate about **Python, Artificial Intelligence,
-Automation and building creative applications.** 🚀
+Welcome to my GitHub! 💜
 
-I love taking an idea 💡 and turning it into
-something **functional, intelligent and exciting.** ✨
+I'm passionate about **Python, Artificial Intelligence, Automation, and creative application development**.
+
+I enjoy taking an idea 💡 and transforming it into something **useful, intelligent, interactive, and real.** 🚀
+
+My goal is to keep learning, experimenting, building, and exploring new possibilities with technology. ✨
+
+---
+
+<div align="center">
+
+## 🛠️ WHAT I LOVE TO BUILD
 
 <br>
-
-🌸 ─────────────────────────────── 🌸
-
-### 🛠️ WHAT I LOVE TO BUILD
 
 🤖 **AI-Powered Applications**
 🐍 **Python Projects**
 ⚙️ **Automation Tools**
 🧠 **Generative AI Solutions**
-⚡ **Interactive Streamlit Apps**
+⚡ **Streamlit Applications**
+💬 **LLM-Based Tools**
+📚 **RAG Applications**
 🎨 **Creative Digital Experiences**
 
-<br>
+</div>
 
-🌸 ─────────────────────────────── 🌸
+---
 
-### 🧩 MY TECH WORLD
+<div align="center">
 
-🐍 Python   •   🤖 AI / ML   •   🧠 Generative AI
-
-⚙️ Automation   •   💬 LLMs   •   📚 RAG
-
-⚡ Streamlit   •   🔗 APIs   •   🛠️ Git & GitHub
+## 💻 MY TECH WORLD
 
 <br>
 
-🌸 ─────────────────────────────── 🌸
+### 🐍 Python
 
-### 🌱 CURRENTLY LEARNING & EXPLORING
+### 🤖 Artificial Intelligence
+
+### 🧠 Machine Learning
+
+### ✨ Generative AI
+
+### 💬 LLMs & NLP
+
+### 📚 RAG
+
+### ⚙️ Automation
+
+### ⚡ Streamlit
+
+### 🔗 APIs
+
+### 🛠️ Git & GitHub
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 CURRENTLY LEARNING & EXPLORING
+
+<br>
 
 🔍 Machine Learning
 🧠 Generative AI
 🤖 Intelligent Automation
 💬 Large Language Models
-✨ AI-powered Applications
+📚 Retrieval-Augmented Generation
+⚡ AI Application Development
+✨ Creative Digital Solutions
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+> 🌟 **Think Different**
+> 💡 **Build Creative**
+> ⚙️ **Automate Smart**
+> 📚 **Keep Learning**
+> 🚀 **Keep Growing**
 
 <br>
 
-🌸 ─────────────────────────────── 🌸
+### 💭 IDEA → 💻 CODE → 🤖 INTELLIGENCE → ✨ EXPERIENCE
 
-### 💡 MY PHILOSOPHY
+</div>
 
-> 🌟 **Think Different.**
-> 💡 **Build Creative.**
-> ⚙️ **Automate Smart.**
-> 🚀 **Keep Learning.**
+---
+
+<div align="center">
+
+## 🪄 MY BUILDING JOURNEY
 
 <br>
 
-### 🪄 FROM IDEA → TO CODE → TO SOMETHING REAL
-
-💭 **Idea**
+💭 **Have an Idea**
 
 ⬇️
 
-💻 **Build**
+📝 **Plan It**
 
 ⬇️
 
-🤖 **Add Intelligence**
+🐍 **Code It**
 
 ⬇️
 
-✨ **Create Something Amazing**
+🤖 **Make It Intelligent**
+
+⬇️
+
+🧪 **Test & Improve**
+
+⬇️
+
+🚀 **Turn It Into Reality**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 WHAT YOU'LL FIND HERE
 
 <br>
 
-🌸 ─────────────────────────────── 🌸
-
-### 🚀 A LITTLE SPACE FOR BIG IDEAS
-
-I'm constantly learning, experimenting and building. 🌱
-
-Every repository is another step in my journey
-towards creating **smarter digital experiences.** 💜
+🐍 Python experiments
+🤖 AI projects
+⚙️ Automation ideas
+🧠 Machine Learning work
+✨ Generative AI experiments
+💻 Interactive applications
+🌱 Learning projects
 
 <br>
 
-### 👀 MORE IS COMING...
+**Every project is part of the journey.** 💜
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 BIG IDEAS ARE LOADING...
+
+<br>
 
 ✨ New ideas
-🤖 New AI projects
+🤖 New AI experiments
 ⚙️ New automations
-💻 New experiments
+🐍 New Python projects
+💻 New applications
+
+<br>
+
+### 👀 Stay tuned...
+
+</div>
+
+---
+
+<div align="center">
+
+🌷 ───────────────────────────────────────── 🌷
+
+# 💜 THANK YOU FOR VISITING! 💜
+
+### 👋 Welcome • Explore • Learn • Create
+
+<br>
+
+**Keep Learning. Keep Building. Keep Automating. 🚀**
 
 <br><br>
 
-# 🌷 THANK YOU FOR VISITING! 🌷
-
-### 💜 Stay Curious • Keep Creating • Keep Building 🚀
+`✨ BUILD • AUTOMATE • LEARN • INNOVATE ✨`
 
 <br>
 
-`✨ BUILD • AUTOMATE • LEARN • INNOVATE ✨`
+🌷 ───────────────────────────────────────── 🌷
 
 </div>
