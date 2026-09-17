@@ -1,57 +1,123 @@
 <div align="center">
 
-# ✦ TEHMINA AUTOMATION ✦
+# 🌷✨ WELCOME TO MY GITHUB ✨🌷
 
-### 🤖 AI • AUTOMATION • PYTHON
+## 👩‍💻 TEHMINA AUTOMATION
+
+### 🤖 AI • 🐍 PYTHON • ⚙️ AUTOMATION
 
 <br>
 
-**Building smart solutions that make work simpler.**
+**Turning ideas into smart, creative & useful digital solutions.** 💫
 
 <br><br>
 
-`🐍 Python`   `🤖 Artificial Intelligence`   `⚙️ Automation`   `⚡ Streamlit`
+🌸 ─────────────────────────────── 🌸
+
+### 💜 HELLO, I'M TEHMINA! 👋
+
+Welcome to my little corner of GitHub! 🪄
+
+I'm passionate about **Python, Artificial Intelligence,
+Automation and building creative applications.** 🚀
+
+I love taking an idea 💡 and turning it into
+something **functional, intelligent and exciting.** ✨
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌸 ─────────────────────────────── 🌸
 
-### ✧ WHAT I'M BUILDING ✧
+### 🛠️ WHAT I LOVE TO BUILD
 
-**AI-powered applications**
-**Python automation tools**
-**Smart productivity solutions**
-**Creative digital experiences**
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### 🌐 MY VISION
-
-> **Automate the ordinary.
-> Build the intelligent.**
-
-I enjoy turning ideas into practical applications
-using **Python, AI and automation.**
+🤖 **AI-Powered Applications**
+🐍 **Python Projects**
+⚙️ **Automation Tools**
+🧠 **Generative AI Solutions**
+⚡ **Interactive Streamlit Apps**
+🎨 **Creative Digital Experiences**
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌸 ─────────────────────────────── 🌸
 
-### 🚀 CURRENTLY EXPLORING
+### 🧩 MY TECH WORLD
 
-AI   •   Machine Learning   •   Generative AI
-Automation   •   LLMs   •   Intelligent Applications
+🐍 Python   •   🤖 AI / ML   •   🧠 Generative AI
 
-<br>
+⚙️ Automation   •   💬 LLMs   •   📚 RAG
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### ✦ BUILD • AUTOMATE • INNOVATE ✦
+⚡ Streamlit   •   🔗 APIs   •   🛠️ Git & GitHub
 
 <br>
 
-**Something interesting is being built... 👀**
+🌸 ─────────────────────────────── 🌸
+
+### 🌱 CURRENTLY LEARNING & EXPLORING
+
+🔍 Machine Learning
+🧠 Generative AI
+🤖 Intelligent Automation
+💬 Large Language Models
+✨ AI-powered Applications
+
+<br>
+
+🌸 ─────────────────────────────── 🌸
+
+### 💡 MY PHILOSOPHY
+
+> 🌟 **Think Different.**
+> 💡 **Build Creative.**
+> ⚙️ **Automate Smart.**
+> 🚀 **Keep Learning.**
+
+<br>
+
+### 🪄 FROM IDEA → TO CODE → TO SOMETHING REAL
+
+💭 **Idea**
+
+⬇️
+
+💻 **Build**
+
+⬇️
+
+🤖 **Add Intelligence**
+
+⬇️
+
+✨ **Create Something Amazing**
+
+<br>
+
+🌸 ─────────────────────────────── 🌸
+
+### 🚀 A LITTLE SPACE FOR BIG IDEAS
+
+I'm constantly learning, experimenting and building. 🌱
+
+Every repository is another step in my journey
+towards creating **smarter digital experiences.** 💜
+
+<br>
+
+### 👀 MORE IS COMING...
+
+✨ New ideas
+🤖 New AI projects
+⚙️ New automations
+💻 New experiments
+
+<br><br>
+
+# 🌷 THANK YOU FOR VISITING! 🌷
+
+### 💜 Stay Curious • Keep Creating • Keep Building 🚀
+
+<br>
+
+`✨ BUILD • AUTOMATE • LEARN • INNOVATE ✨`
 
 </div>
